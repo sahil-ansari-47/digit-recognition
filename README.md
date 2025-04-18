@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @sahil-ansari-47
 - 👀 I’m interested in machine-learning, problem solving, web development, dsa
-- 🌱 I’m currently learning btech ece  
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning btech electronics and communication.  
+- 💞️ I’m looking to collaborate on projects on web development and image processing.
 - 📫 How to reach me sahilansari28112003@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
 
 <!---
 sahil-ansari-47/sahil-ansari-47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
