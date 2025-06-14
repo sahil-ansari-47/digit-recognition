@@ -34,8 +34,3 @@ model = Sequential([
     Dense(10, activation='softmax')
 ])
 
-
-<!---
-sahil-ansari-47/sahil-ansari-47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
